@@ -2,7 +2,7 @@
 This project utilizes the Python Pandas library for data analysis.
 
 # Images
-<img src="https://github.com/Zhuang-Zixian/PGE_Pandas_Python/assets/61621372/6eb04326-9901-4e15-963e-eccfe9a77d6b" width="800">
+<img src="https://github.com/Zhuang-Zixian/PGE_Pandas_Python/assets/61621372/43f2f009-637d-4837-a63d-5491b708fa78" width="300">
 <img src="https://github.com/Zhuang-Zixian/PGE_Pandas_Python/assets/61621372/0362570c-b1c5-4aff-8a18-bbb78d442b46" width="300">
 
 # Visitor Trend Analysis
